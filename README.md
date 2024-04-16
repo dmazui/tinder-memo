@@ -1,5 +1,5 @@
 # Tinder Memo
 
-Projeto de API para controle de contatos do tinder xom informações relevantes
+Projeto de API para controle de contatos do tinder com informações relevantes
 
 ## 🚀 Começando
